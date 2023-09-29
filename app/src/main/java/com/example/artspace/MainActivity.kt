@@ -89,7 +89,7 @@ fun ArtSpaceScreen(modifier: Modifier = Modifier, listResources: List<Triple<Int
             modifier = modifier.size(16.dp)
         )
         Text(
-            text = "Hi, I'm Santiago, and this is my gallery:",
+            text = "Hi, I'm Santiago Casanas (202025301), and this is my gallery:",
             fontWeight = FontWeight.Bold,
             color = colorResource(id = R.color.black),
             fontSize = 30.sp,
