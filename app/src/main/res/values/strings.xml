@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="denji">Denji</string>
+    <string name="denji_year">2023</string>
+    <string name="zero_two">Zero Two</string>
+    <string name="zero_two_year">2021</string>
+    <string name="sanji">Sanji</string>
+    <string name="sanji_year">2022</string>
+    <string name="naruto">Naruto</string>
+    <string name="naruto_year">2020</string>
+
+    <string name="lukas_Graham_blue">Blue album by Lukas Graham</string>
+    <string name="lukas_Graham_blue_year">June 10, 2015</string>
+    <string name="lukas_Graham_pink">Pink album by Lukas Graham</string>
+    <string name="lukas_Graham_pink_year">January 20, 2023</string>
+    <string name="lukas_Graham_DITM">Drunk in the morning by Lukas Graham</string>
+    <string name="lukas_Graham_DITM_year">February 13, 2012</string>
+    <string name="lukas_Graham_seven">Seven years by Lukas Graham</string>
+    <string name="lukas_Graham_seven_year">September 18, 2015</string>
+    <string name="sky">Photo taken by me from my window</string>
+    <string name="sky_year">August 30, 2020</string>
+    <string name="moonstar">A beautiful moon accompanied</string>
+    <string name="moonstar_year">November 30, 2020</string>
+    <string name="lake">Photo of a lake taken by me</string>
+    <string name="lake_year">August 16, 2023</string>
+    <string name="lasagna">I like the lasagna</string>
+    <string name="lasagna_year">December 28, 2022</string>
+    <string name="pizaa_pant">And the pizza too</string>
+    <string name="pizaa_pant_year">November 13, 2022</string>
+    <string name="burguer">But my favorite food is the hamburguer</string>
+    <string name="burguer_year">February 3, 2023</string>
+
+
+    <string name="next_buttom">Next</string>
+    <string name="previous_buttom">Previous</string>
+    <string name="restart_buttom">Restart</string>
+
+</resources>
